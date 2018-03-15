@@ -980,7 +980,7 @@ h1 + .row-quotes, h2 + .row-quotes { margin-top: 45px; }
 .feature-row.mgno, .feature-row.nomg { margin-top: 0; }
 .feature-row.row-overup { position: relative; z-index: 21; margin-top: -120px; }
 
-.feature { margin-top: 60px; overflow: hidden; position: relative; transform-style: preserve-3d; background: transparent; }
+.feature { margin-top: 30px; overflow: hidden; position: relative; transform-style: preserve-3d; background: transparent; }
 .feature .fbox-photo, .feature .fbox-content { margin-top: 20px; }
 .feature .fbox-photo:first-child, .feature .fbox-content:first-child { margin-top: 0; }
 .feature .fbox-over { position: absolute; bottom: 0; width: 100%; z-index: 2; color: #fff; padding: 25px; transition: all .4s; -ms-border-radius: 0px 0px 6px 6px; border-radius: 0px 0px 6px 6px; background: rgba(24, 99, 171, 0.85); }
@@ -991,7 +991,7 @@ h1 + .row-quotes, h2 + .row-quotes { margin-top: 45px; }
 .feature .fbox-over .btn:hover { background-color: #fff; color: #1863AB; }
 .feature .fbox-over .btn:last-child { margin-bottom: 2px; }
 .feature .fbox-photo { -ms-border-radius: 6px; border-radius: 6px; position: relative; overflow: hidden; transform-style: preserve-3d; }
-.feature .fbox-photo img { margin: 0; width: 100%; height: 680px; border-radius: 0; }
+.feature .fbox-photo img { margin: 0; width: 100%; height: 530px; border-radius: 0; }
 .feature .fbox-photo.imagebg img { display: none; }
 .feature .fbox-photo::after { content: ""; position: absolute; top: 0; left: 0; bottom: 0; right: 0; background: #000; opacity: 0; z-index: 0; transition: opacity 0.5s; }
 .feature > a { display: block; }
